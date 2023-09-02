@@ -7,19 +7,19 @@ This repository contains a small real-time chat application for multiple users d
 Multiple users at the same time
 
 <p align="center">
-   <img src="https://github.com/victor-lg/multiuserChat/assets/95044073/703304c2-e228-41d8-a8bd-a80d5657c671">
+   <img src="https://github.com/victor-lg/multi-userChat/assets/95044073/889b4185-f3d6-4c67-a26b-f161e158a539">
 </p>
 
 Scroll to bottom...
 
 <p align="center">
-   <img src="https://github.com/rim-rawr/multiuserChat/assets/95044073/b134b388-cf2a-47f6-b2d5-c84f15411b70">
+   <img src="https://github.com/victor-lg/multi-userChat/assets/95044073/50e9812f-16e8-4b30-9d20-3259363183f6">
 </p>
 
 and responsive
 
 <p align="center">
-   <img src="https://github.com/rim-rawr/multiuserChat/assets/95044073/05a963d4-608d-4731-bf4d-87dd0c5b9e64">
+   <img src="https://github.com/victor-lg/multi-userChat/assets/95044073/ee8f3318-05e2-462f-9939-7671f4fa1d3a">
 </p>
 
 <!-- INSTALLATION -->
